@@ -1,0 +1,41 @@
+
+========================================
+             CARPET INVOICE
+========================================
+
+Invoice Number: INV20261116210750
+Date: 16-11-2026 09:07 PM
+
+Customer Name: Ali
+
+----------------------------------------
+             PRODUCT DETAILS
+----------------------------------------
+
+Carpet Type:       Premium Carpet
+
+Length:            5 Feet
+Width:             6 Feet
+
+Total Area:        30.00 Square Feet
+
+Rate:              Rs. 1,200.00
+                   per square unit
+
+----------------------------------------
+              PRICE DETAILS
+----------------------------------------
+
+Carpet Cost:       Rs. 36,000.00
+
+Tax Rate:          15%
+
+Tax Amount:        Rs. 5,400.00
+
+----------------------------------------
+
+FINAL AMOUNT:      Rs. 41,400.00
+
+========================================
+          THANK YOU FOR YOUR VISIT!
+========================================
